@@ -1,2 +1,2 @@
-# stufy
+# study
 学习
